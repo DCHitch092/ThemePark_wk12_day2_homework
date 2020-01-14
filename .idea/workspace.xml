@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac045795-6ee8-4e33-b497-41028b77310c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/behaviours/IAdded.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/behaviours/IAdded.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/people/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/people/Visitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThemePark.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThemePark.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/attractions/Dodgems.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/attractions/Dodgems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ThemeParkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ThemeParkTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +39,6 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
-  </component>
   <component name="ProjectId" id="1WOJ3RiKA3Ow0GDNMPMm8FsuMEv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -50,7 +52,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="JUnit.ThemeParkTest">
+  <component name="RunManager" selected="JUnit.ThemeParkTest.canGetAllReviewed">
     <configuration name="All in ThemeParkStartPoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemeParkStartPoint" />
       <option name="PACKAGE_NAME" value="" />
@@ -68,8 +70,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThemeParkTest.canAddInterests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ThemeParkTest" />
+      <option name="METHOD_NAME" value="canAddInterests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThemeParkTest.canGetAllReviewed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ThemeParkTest" />
+      <option name="METHOD_NAME" value="canGetAllReviewed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ThemeParkTest.canGetAllReviewed" />
+        <item itemvalue="JUnit.ThemeParkTest.canAddInterests" />
         <item itemvalue="JUnit.ThemeParkTest" />
         <item itemvalue="JUnit.All in ThemeParkStartPoint" />
       </list>
@@ -105,22 +129,22 @@
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="533" y="149" key="#com.intellij.ide.util.MemberChooser/0.23.1440.819@0.23.1440.819" timestamp="1579016663679" />
-    <state width="1398" height="211" key="GridCell.Tab.0.bottom" timestamp="1579018333925">
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom" timestamp="1579019755700">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1579018333925" />
-    <state width="1398" height="211" key="GridCell.Tab.0.center" timestamp="1579018333924">
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1579019755700" />
+    <state width="1398" height="211" key="GridCell.Tab.0.center" timestamp="1579019755699">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="1398" height="211" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1579018333924" />
-    <state width="1398" height="211" key="GridCell.Tab.0.left" timestamp="1579018333924">
+    <state width="1398" height="211" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1579019755699" />
+    <state width="1398" height="211" key="GridCell.Tab.0.left" timestamp="1579019755698">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="1398" height="211" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1579018333924" />
-    <state width="1398" height="211" key="GridCell.Tab.0.right" timestamp="1579018333925">
+    <state width="1398" height="211" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1579019755698" />
+    <state width="1398" height="211" key="GridCell.Tab.0.right" timestamp="1579019755699">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="1398" height="211" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1579018333925" />
+    <state width="1398" height="211" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1579019755699" />
     <state x="385" y="166" width="670" height="676" key="search.everywhere.popup" timestamp="1579017789615">
       <screen x="0" y="23" width="1440" height="819" />
     </state>

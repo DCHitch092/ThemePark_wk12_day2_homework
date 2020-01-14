@@ -1,6 +1,5 @@
 package attractions;
 
-import behaviours.ISecurity;
 import people.Visitor;
 
 public class Dodgems extends Attraction  {
